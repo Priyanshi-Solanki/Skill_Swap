@@ -10,9 +10,6 @@ Create a `.env` file in the root directory of your project with the following co
 # MongoDB Connection
 MONGODB_URI=mongodb://localhost:27017/skillswap
 
-# Google OAuth
-GOOGLE_CLIENT_ID=267321705557-ke7ohep7e95svsu9dcqhb0or2ebggnrn.apps.googleusercontent.com
-
 # App Configuration
 VITE_APP_NAME=SkillSwap
 VITE_APP_URL=http://localhost:8080
