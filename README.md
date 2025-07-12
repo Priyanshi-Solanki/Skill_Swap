@@ -70,6 +70,9 @@ src/
 3. Make your changes
 4. Submit a pull request
 
+   ## Link to the presentation and Video demonstration
+   https://www.canva.com/design/DAGs8VqNWmw/V-2wfWWwLpImAZjt_aCfUA/edit?utm_content=DAGs8VqNWmw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## License
 
 This project is licensed under the MIT License.
